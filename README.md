@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Cong</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vuminhcong" alt="vuminhcong" /> <img src="https://badges.pufler.dev/repos/VuMinhCong" alt="vuminhcong" /> <img src="https://badges.pufler.dev/updated/VuMinhCong/VuMinhCong" alt="vuminhcong" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vuminhcong" alt="vuminhcong" /> 
 - ✍ I'm a student of: [Hanoi University of Science and Technology](https://soict.hust.edu.vn) (HUST).
 
 - 🌱 I’m currently learning Japanese and other IT skills.
