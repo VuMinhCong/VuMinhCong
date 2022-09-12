@@ -5,7 +5,7 @@
   
 - ✍ I'm a student of: [Hanoi University of Science and Technology](https://soict.hust.edu.vn) (HUST).
 
-- 🌱 I’m currently learning Japanese and other IT skills.
+- 🌱 I’m currently learning Japanese, English and other IT skills.
 
 
 ## 📫 How to reach me:
