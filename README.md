@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vuminhcong" alt="vuminhcong" /></p>
   
-- ✍ I'm a student of: [Hanoi University of Science and Technology](https://soict.hust.edu.vn) (HUST).
+- ✍ I graduated [Hanoi University of Science and Technology](https://soict.hust.edu.vn) (HUST) on 5/5/2023.
 
 - 🌱 I’m currently learning Japanese, English and other IT skills.
 
